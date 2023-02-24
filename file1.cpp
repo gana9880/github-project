@@ -9,3 +9,4 @@ hey hey
 in new features branch data is changed
 again changed for hard reset
 >>>>>>> new_features
+ New line added to the file1 to test forward merge 
